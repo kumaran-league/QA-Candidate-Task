@@ -1,4 +1,4 @@
-# Playwright Candidate Evaluation Questions
+# Playwright or Selenium Candidate Evaluation Questions
 
 This document contains questions designed to assess a candidate's ability to write effective Playwright tests.
 
