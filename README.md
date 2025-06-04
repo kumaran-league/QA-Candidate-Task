@@ -1,4 +1,4 @@
-# QA-Testing Repository Overview
+# QA Candidate Task Overview
 
 This repository serves as a practical demonstrations of test automation using various frameworks and languages for assessing QA candidates.
 
